@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+}
+
+.heading {
+    font-size: 5rem;
+    color: black;
+    text-align: center;
+    text-decoration: pink 5px underline;
+    text-decoration-style: wavy;
+    margin-top: 50px;
+    font-family: 'Pacifico', cursive;
+}
+
+.ct {
+    margin-top: 50px;
+    background-color: skyblue;
+    padding-top: 30px;
+    height: 200px;
+    border: pink solid 10px;
+}
+
+.ct:hover {
+    transform: scale(1.07);
+}
+
+.cat1 {
+    color: black;
+    font-size: 70px;
+    align-items: center;
+    margin-left: 350px;
+    font-family: 'Original Surfer', cursive;
+}
+
+.cat1:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.cat2 {
+    color: black;
+    font-size: 70px;
+    align-items: center;
+    margin-left: 400px;
+    font-family: 'Original Surfer', cursive;
+}
+
+.cat2:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.cat3 {
+    color: black;
+    font-size: 70px;
+    align-items: center;
+    margin-left: 400px;
+    font-family: 'Original Surfer', cursive;
+}
+
+.cat3:hover {
+    text-decoration: none;
+    color: black;
+}
