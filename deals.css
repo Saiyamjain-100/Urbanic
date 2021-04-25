@@ -16,6 +16,7 @@
 .cs-1 {
     border: pink 10px solid;
     width: 60%;
+    margin-left: 230px;
 }
 
 .subheading {
@@ -100,11 +101,11 @@
         width: 100%;
     }
     .c-1>.item {
-        height: 150px;
+        height: 110px;
         width: 100%;
     }
     .c-2>.item {
-        height: 150px;
+        height: 115px;
         width: 100%;
     }
     .c-3>.item {
