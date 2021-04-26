@@ -62,3 +62,46 @@
     text-decoration: none;
     color: black;
 }
+
+@media screen and (max-width:576px) {
+    .heading {
+        font-size: 2.5rem;
+    }
+    .cat1 {
+        color: black;
+        font-size: 30px;
+        align-items: center;
+        font-family: 'Original Surfer', cursive;
+        margin-left: 40px;
+        padding-top: 70px;
+    }
+    img {
+        width: 100px;
+    }
+    .cat2 {
+        color: black;
+        font-size: 30px;
+        align-items: center;
+        font-family: 'Original Surfer', cursive;
+        margin-left: 40px;
+        padding-top: 70px;
+    }
+    .cat3 {
+        color: black;
+        font-size: 30px;
+        align-items: center;
+        font-family: 'Original Surfer', cursive;
+        margin-left: 40px;
+        padding-top: 70px;
+    }
+    .ct {
+        margin-top: 50px;
+        padding-top: 40px;
+        height: 190px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .ct:hover {
+        transform: scale(1.04);
+    }
+}
