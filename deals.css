@@ -1,3 +1,120 @@
+.heading {
+    font-size: 7rem;
+    color: black;
+    text-align: center;
+    text-decoration: pink 5px underline;
+    text-decoration-style: wavy;
+    margin-top: 50px;
+    font-family: 'Pacifico', cursive;
+}
+
+.cs {
+    border: pink 10px solid;
+    width: 90%;
+}
+
+.cs-1 {
+    border: pink 10px solid;
+    width: 60%;
+    margin-left: 230px;
+}
+
+.subheading {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: pink 5px underline;
+    text-decoration-style: wavy;
+    font-family: 'Original Surfer', cursive;
+}
+
+.i1 {
+    width: 100%;
+    height: 400px;
+}
+
+.i2 {
+    height: 10px;
+}
+
+.i3 {
+    height: 30px;
+}
+
+.i4 {
+    width: 100%;
+    height: 3px;
+}
+
+.i5 {
+    width: 100%;
+    height: 100px;
+}
+
+.c-1>.item {
+    height: 300px;
+    width: 100%;
+}
+
+.c-2>.item {
+    height: 300px;
+    width: 100%;
+}
+
+.c-3>.item {
+    height: 420px;
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .heading {
+        font-size: 3.3rem;
+    }
+    .subheading {
+        font-size: 34px;
+    }
+    .i1 {
+        width: 100%;
+        height: 100px;
+    }
+    .i2 {
+        width: 100%;
+        height: 100px;
+    }
+    .i3 {
+        width: 100%;
+        height: 100px;
+    }
+    .i4 {
+        width: 100%;
+        height: 100px;
+    }
+    .i5 {
+        width: 100%;
+        height: 100px;
+    }
+    .cs {
+        border: pink 10px solid;
+        width: 100%;
+    }
+    .cs-1 {
+        border: pink 10px solid;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .c-1>.item {
+        height: 110px;
+        width: 100%;
+    }
+    .c-2>.item {
+        height: 115px;
+        width: 100%;
+    }
+    .c-3>.item {
+        height: 115px;
+        width: 100%;
+    }
+}
+
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
